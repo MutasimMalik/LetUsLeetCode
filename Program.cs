@@ -12,9 +12,12 @@
             //Console.WriteLine(string.Join(" ", result));
 
             //Best Time to Buy and Sell Stock
+            //int[] prices = { 7, 1, 5, 3, 6, 4 };
+            //Console.WriteLine(bestTimeToBuyAndSellStock.MaxProfit(prices));
 
-            int[] prices = { 7, 1, 5, 3, 6, 4 };
-            Console.WriteLine(bestTimeToBuyAndSellStock.MaxProfit(prices));
+            //Valid Parentheses
+            string input = "()[]{}";
+            Console.WriteLine(validParentheses.IsValid(input));
         }
     }
 }
