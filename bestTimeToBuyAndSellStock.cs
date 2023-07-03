@@ -1,6 +1,6 @@
 ﻿namespace LetUsLeetCode
 {
-    public static class bestTimeToBuyAndSellStock
+    public static class BestTimeToBuyAndSellStock
     {
         public static int MaxProfit(int[] prices)
         {

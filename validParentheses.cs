@@ -1,6 +1,6 @@
 ﻿namespace LetUsLeetCode
 {
-    public static class validParentheses
+    public static class ValidParentheses
     {
         public static bool IsValid(string s)
         {

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace LetUsLeetCode
 {
-    public static class twoSum
+    public static class TwoSum
     {
-        public static int[] TwoSum(int[] nums, int target)
+        public static int[] Sum(int[] nums, int target)
         {
             Dictionary<int, int> map = new Dictionary<int, int>();
 
